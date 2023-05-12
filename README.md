@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anomihe
-- I'm a Dart developer
+- 😘 I'm a Dart and flutter developer
 - 👀 I’m interested in Software engineering, Data Science, Telecommunication and Electronics design
 - 🌱 I’m currently learning Rust language and all in it, ALX sofware Engineering and python
 - 💞️ I’m looking to collaborate on anything that involves my interest
